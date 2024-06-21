@@ -6,7 +6,7 @@ export default function Nav() {
     <>
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
   <div className="container-fluid">
-    <a className="navbar-brand" href="#">POOMCOOT</a>
+    <a className="navbar-brand" href="#">POOMchatai</a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon" />
     </button>
@@ -23,10 +23,10 @@ export default function Nav() {
             [Service]
           </a>
           <ul className="dropdown-menu">
-            <li><a className="dropdown-item" href="#">Action</a></li>
-            <li><a className="dropdown-item" href="#">Another action</a></li>
+            <li><a className="dropdown-item" href="#">เกี่ยวกับ</a></li>
+            <li><a className="dropdown-item" href="#">ติดต่อ</a></li>
             <li><hr className="dropdown-divider" /></li>
-            <li><a className="dropdown-item" href="#">Something else here</a></li>
+            <li><a className="dropdown-item" href="#">บริการ</a></li>
           </ul>
         </li>
         <li className="nav-item">

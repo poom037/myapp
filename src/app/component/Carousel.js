@@ -6,10 +6,10 @@ return (
         <div id="carouselExampleControls" className="carousel slide" data-bs-ride="carousel">
         <div className="carousel-inner">
             <div className="carousel-item active">
-            <Image src={Slider1} className="d-block w-100" alt="..." width={500} height={500}/>
+            <Image src={Slider1} className="d-block w-100" alt="..." width={600} height={600}/>
             </div>
             <div className="carousel-item">
-            <Image src={Slider2} className="d-block w-100" alt="..." />
+            <Image src={Slider2} className="d-block w-100" alt="..." width={600} height={600}/>
             </div>
         </div>
         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
