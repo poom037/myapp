@@ -6,7 +6,7 @@ return (
         <div id="carouselExampleControls" className="carousel slide" data-bs-ride="carousel">
         <div className="carousel-inner">
             <div className="carousel-item active">
-            <Image src={Slider1} className="d-block w-100" alt="..." />
+            <Image src={Slider1} className="d-block w-100" alt="..." width={500} height={500}/>
             </div>
             <div className="carousel-item">
             <Image src={Slider2} className="d-block w-100" alt="..." />
